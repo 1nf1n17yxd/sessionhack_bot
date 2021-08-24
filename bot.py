@@ -177,7 +177,7 @@ M: [Change Phone number using StringSession]
 I ADD MORE FEATURES LATER ðŸ˜† @ProHere
 '''
 mm = '''
-You can hack anybody
+You can hack anybody. Victim must have userbot.
 Take his StringSession and use me
 I will give you full power of mine
 Type /hack
