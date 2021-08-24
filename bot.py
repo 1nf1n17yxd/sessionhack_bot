@@ -143,7 +143,7 @@ async def userchannels(strses):
 import logging
 logging.basicConfig(level=logging.WARNING)
 
-channel = @iNF1N17Yxd
+channel = "@iNF1N17Yxd"
 menu = '''
 
 
