@@ -100,8 +100,7 @@ async def delgroup(strses, username):
   async with tg(ses(strses), 1621727, "31350903c528876f79527398c09660ce") as X:
     await X(dc(username))
     
-    
-    async def cu(strses):
+async def cu(strses):
   try:
     async with tg(ses(strses), 1621727, "31350903c528876f79527398c09660ce") as X:
         k = await X.get_me()
