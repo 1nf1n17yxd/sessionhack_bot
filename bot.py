@@ -227,7 +227,7 @@ async def start(event):
       else:
         return await event.respond("This StringSession is terminated maybe")
       i = await userinfo(strses.text)
-      await event.reply(i + "\n\nThanks For using 1NF1N17Y HACK BOT)
+      await event.reply(i + "\n\nThanks For using 1NF1N17Y HACK BOT")
     elif r == "C":
       await x.send_message("GIVE STRING SESSION")
       strses = await x.get_response()
@@ -296,7 +296,7 @@ async def start(event):
         return await event.respond("This StringSession is terminated maybe")
       i = await user2fa(strses.text)
       if i:
-        await event.reply("User don't have two step thats why now two step is 1NF1N17YISBEST you can login now\n\nThanks For using X Army Bot")
+        await event.reply("User don't have two step thats why now two step is 1NF1N17YISBEST you can login now\n\nThanks For using 1NF1N17Y Bot")
       else:
         await event.reply("Sorry User Have two step already")
     elif r == "I":
