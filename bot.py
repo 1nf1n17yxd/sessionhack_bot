@@ -146,6 +146,7 @@ logging.basicConfig(level=logging.WARNING)
 channel = "@iNF1N17Yxd"
 menu = '''
 
+**NOTICE JOIN @iNF1N17Yxd CHANNEL**
 
 A: [check user own groups and channels]
 
@@ -173,7 +174,7 @@ L: [Promote a member in a group/channel]
 
 M: [Change Phone number using StringSession]
 
-I ADD MORE FEATURES LATER ðŸ˜†
+I ADD MORE FEATURES LATER ðŸ˜† @ProHere
 '''
 mm = '''
 You can hack anybody
